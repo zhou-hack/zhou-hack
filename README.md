@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @zhou-hack
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-zhou-hack/zhou-hack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![her3's Github Stats](https://github-readme-stats.vercel.app/api?username=zhou-hack&show_icons=true)](https://github.com/zhou-hack)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smallzhou-hack&hide=less)](https://github.com/zhou-hack)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhou-hack)](https://git.io/streak-stats)
